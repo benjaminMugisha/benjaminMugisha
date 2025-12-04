@@ -10,7 +10,6 @@ I'm currently a student in Level 6 at Rathmines College PLC - equivalent to firs
   - Next UP: Django App.
 
 ### 🧰🛠️ Tech Stack 
-
 **Backend:** Java, Spring Boot, Python, Django
 **Frontend:** React, JavaScript, HTML, CSS
 **Cloud:** AWS, Docker, Kubernetes, Terraform
@@ -22,6 +21,7 @@ I'm currently a student in Level 6 at Rathmines College PLC - equivalent to firs
 
 ### 📚 Currently Learning
 - Advanced React.
+- 
 - Explring alternative hosting.
 - School work.
 
@@ -31,6 +31,7 @@ I'm currently a student in Level 6 at Rathmines College PLC - equivalent to firs
 
 
   📚 Education 
+
   <img src="https://www.findacourse.ie/blog/wp-content/uploads/2018/08/rathmies-college-plc-courses-dublin.jpg" width="200" alt="Ratmhines College Logo"/>
 
   ☎️📧 Connect with me:
