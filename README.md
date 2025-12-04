@@ -31,7 +31,7 @@ I'm currently a student in Level 6 at Rathmines College PLC - equivalent to firs
 
 
   📚 Education 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.findacourse.ie%2Fcolleges%2Frathmines-college%2F&psig=AOvVaw0q_XaNCpb_aOECchkh2fN2&ust=1764951376557000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCX2rCqpJEDFQAAAAAdAAAAABAE" width="200" alt="Ratmhines College Logo"/>
+  <img src="https://www.findacourse.ie/blog/wp-content/uploads/2018/08/rathmies-college-plc-courses-dublin.jpg" width="200" alt="Ratmhines College Logo"/>
 
   ☎️📧 Connect with me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/benjamin-mugisha-9b2397299/)
