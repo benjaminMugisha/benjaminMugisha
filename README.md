@@ -21,14 +21,12 @@ I'm currently a student in Level 6 at Rathmines College PLC - equivalent to firs
 
 ### 📚 Currently Learning
 - Advanced React.
-- 
-- Explring alternative hosting.
+- Exploring alternative hosting.
 - School work.
 
 ### 🚀 Featured Projects
 - **Banking Backend:** - SpringBoot, Spring Security and Docker, AWS, Github Actions, Logging, Terraform, Unit and Integration Testing, PostgreSQL.
 - **Fronted:** - React JSX, hooks(context, state, reducer, etc), Protected Route, react-router-v6, Dashboards and NavBar, etc
-
 
   📚 Education 
 
